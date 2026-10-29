@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="24" fill="#0A0A0A"/>
+  <!-- Copper Star and R -->
+  <polygon points="50,22 53,30 61,30 55,34 57,42 50,37 43,42 45,34 39,30 47,30" fill="#C5A059"/>
+  <text x="50" y="68" text-anchor="middle" font-family="'Times New Roman', Georgia, serif" font-weight="bold" font-size="30" fill="#C5A059">R</text>
+  <text x="50" y="84" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="5.5" fill="#FFFFFF" letter-spacing="3">RESERVE</text>
+</svg>

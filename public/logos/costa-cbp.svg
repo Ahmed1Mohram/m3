@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="24" fill="#731422"/>
+  <circle cx="50" cy="50" r="41" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="50" y="44" text-anchor="middle" font-family="'Arial Black', sans-serif" font-weight="900" font-size="16" fill="#FFFFFF" letter-spacing="1">COSTA</text>
+  <!-- Three Coffee Beans -->
+  <ellipse cx="40" cy="56" rx="5" ry="7" fill="#F3C06B"/>
+  <ellipse cx="50" cy="54" rx="5" ry="7" fill="#F3C06B"/>
+  <ellipse cx="60" cy="56" rx="5" ry="7" fill="#F3C06B"/>
+  <text x="50" y="74" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="7.5" fill="#FFFFFF" letter-spacing="2">COFFEE</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="24" fill="#1F130E"/>
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#C5A059" stroke-width="2"/>
+  <!-- Cocoa Pod Silhouette -->
+  <ellipse cx="50" cy="44" rx="14" ry="20" fill="#C5A059"/>
+  <text x="50" y="73" text-anchor="middle" font-family="'Times New Roman', Georgia, serif" font-weight="bold" font-size="7" fill="#FFFFFF" letter-spacing="2">HOUSE OF</text>
+  <text x="50" y="82" text-anchor="middle" font-family="'Times New Roman', Georgia, serif" font-weight="bold" font-size="8" fill="#C5A059" letter-spacing="3">COCOA</text>
+</svg>

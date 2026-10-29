@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="24" fill="#0097A7"/>
+  <circle cx="50" cy="50" r="41" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Cinnamon Roll Swirl -->
+  <path d="M50 35 C60 35 65 42 65 50 C65 60 55 65 50 65 C42 65 37 58 37 50 C37 44 42 40 47 40 C52 40 55 45 55 48 C55 52 50 54 48 53" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="50" y="80" text-anchor="middle" font-family="'Brush Script MT', 'Segoe Script', cursive" font-size="14" fill="#FFFFFF">Cinnabon</text>
+</svg>

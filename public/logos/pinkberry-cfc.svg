@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="24" fill="#FFFFFF"/>
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="none" stroke="#E91E63" stroke-width="2.5"/>
+  <!-- Pinkberry Swirl -->
+  <ellipse cx="48" cy="42" rx="14" ry="18" fill="#E91E63"/>
+  <ellipse cx="60" cy="36" rx="6" ry="10" transform="rotate(30 60 36)" fill="#8BC34A"/>
+  <text x="50" y="74" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="900" font-size="10" fill="#E91E63" letter-spacing="1">pinkberry</text>
+</svg>

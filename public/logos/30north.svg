@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="tnGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1510"/>
+      <stop offset="100%" stop-color="#0B0907"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#tnGrad)"/>
+  <circle cx="50" cy="50" r="41" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+  <circle cx="50" cy="50" r="37" fill="none" stroke="#D4AF37" stroke-width="0.75" stroke-dasharray="3 2"/>
+  <text x="50" y="48" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="900" font-size="23" fill="#D4AF37">30°N</text>
+  <text x="50" y="66" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="7" fill="#FFFFFF" letter-spacing="3">COFFEE</text>
+  <text x="50" y="76" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="500" font-size="5" fill="#888888" letter-spacing="1">ROASTERS</text>
+</svg>

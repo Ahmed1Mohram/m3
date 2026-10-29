@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="24" fill="#FFFFFF"/>
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="none" stroke="#FF671F" stroke-width="3"/>
+  <text x="50" y="52" text-anchor="middle" font-family="'Arial Black', sans-serif" font-weight="900" font-size="28" fill="#FF671F">D<tspan fill="#DA1884">D</tspan></text>
+  <text x="50" y="74" text-anchor="middle" font-family="'Arial Black', sans-serif" font-weight="900" font-size="9" fill="#FF671F">DUNKIN<tspan fill="#DA1884">'</tspan></text>
+</svg>
